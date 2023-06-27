@@ -4,4 +4,7 @@
 ## Format to run the Knapsack implementation:- 
           python main.py --algorithm [algorithmType] --file cities.txt
 - algorithmType = 'hc', 'sa', 'ga' for hill climbing, simulated annealing and genetic algorithms respectively
+
+![map](https://github.com/Isa1asN/search-algorithms-assignment/raw/main/map.jpg?raw=true)
+
   
